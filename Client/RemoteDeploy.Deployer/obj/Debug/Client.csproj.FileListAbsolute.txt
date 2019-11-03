@@ -1,0 +1,3 @@
+C:\Users\wattar\Documents\GitHub\Alcatraz\Client\RemoteDeploy.Deployer\bin\Debug\RemoteDeploy.Deployer.exe.config
+C:\Users\wattar\Documents\GitHub\Alcatraz\Client\RemoteDeploy.Deployer\obj\Debug\RemoteDeploy.Deployer.exe
+C:\Users\wattar\Documents\GitHub\Alcatraz\Client\RemoteDeploy.Deployer\obj\Debug\RemoteDeploy.Deployer.pdb
