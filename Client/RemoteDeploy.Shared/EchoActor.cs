@@ -15,6 +15,13 @@ namespace RemoteDeploy.Shared
                 Console.WriteLine("[{0}]: {1}", Sender, hello.Message);
                 Sender.Tell(hello);
             });
+
+            Receive<Client>(client =>
+            {
+                Console.WriteLine("[{0}]: {1}", Sender, client.ipAddress + "---" + client.port + "---" + client.preferred_group_size + "---" + client.sequenceID + "---" + client.unique_name);
+                Sender.Tell(client);
+            });
+
         }
     }
 }

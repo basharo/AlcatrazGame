@@ -19,3 +19,13 @@ C:\Users\wattar\Documents\GitHub\Alcatraz\Server\RemoteDeploy.Shared\bin\Debug\S
 C:\Users\wattar\Documents\GitHub\Alcatraz\Server\RemoteDeploy.Shared\obj\Debug\RemoteDeploy.Shared.csprojResolveAssemblyReference.cache
 C:\Users\wattar\Documents\GitHub\Alcatraz\Server\RemoteDeploy.Shared\obj\Debug\RemoteDeploy.Shared.dll
 C:\Users\wattar\Documents\GitHub\Alcatraz\Server\RemoteDeploy.Shared\obj\Debug\RemoteDeploy.Shared.pdb
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\RemoteDeploy.Shared.dll
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\RemoteDeploy.Shared.pdb
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\Akka.dll
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\Newtonsoft.Json.dll
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\System.Collections.Immutable.dll
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\Akka.xml
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\Newtonsoft.Json.xml
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\bin\Debug\System.Collections.Immutable.xml
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\obj\Debug\RemoteDeploy.Shared.dll
+C:\Users\wattar\Documents\GitHub\AlcatrazGame\Server\RemoteDeploy.Shared\obj\Debug\RemoteDeploy.Shared.pdb

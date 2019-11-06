@@ -8,7 +8,9 @@ namespace RemoteDeployer.DeployTarget
     {
         static void Main(string[] args)
         {
-            using (var system = ActorSystem.Create("DeployTarget", ConfigurationFactory.ParseString(@"
+            try
+            {
+                using (var system = ActorSystem.Create("Server", ConfigurationFactory.ParseString(@"
                 akka {  
                     actor.provider = ""Akka.Remote.RemoteActorRefProvider, Akka.Remote""
                     remote {
@@ -18,8 +20,12 @@ namespace RemoteDeployer.DeployTarget
                         }
                     }
                 }")))
+                {
+                    Console.ReadKey();
+                }
+            }
+            catch(Exception ex)
             {
-                Console.ReadKey();
             }
         }
     }
