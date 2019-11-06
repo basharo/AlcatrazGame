@@ -1,0 +1,13 @@
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Client.exe.config
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Client.exe
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Client.pdb
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Akka.dll
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Newtonsoft.Json.dll
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\System.Collections.Immutable.dll
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Akka.xml
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\Newtonsoft.Json.xml
+C:\Projects\Akka IO Test\AkkaIO\Client\bin\Debug\System.Collections.Immutable.xml
+C:\Projects\Akka IO Test\AkkaIO\Client\obj\Debug\Client.csproj.CopyComplete
+C:\Projects\Akka IO Test\AkkaIO\Client\obj\Debug\Client.exe
+C:\Projects\Akka IO Test\AkkaIO\Client\obj\Debug\Client.pdb
+C:\Projects\Akka IO Test\AkkaIO\Client\obj\Debug\Client.csprojAssemblyReference.cache
